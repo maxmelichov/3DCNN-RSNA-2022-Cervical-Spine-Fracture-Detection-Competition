@@ -20,4 +20,4 @@ For more information on the challenge, please contact RSNA Informatics staff at 
 
 A full set of acknowledgments can be found on the competition page.
 
-[https://github.com/maxmelichov/3DCNN-RSNA-2022-Cervical-Spine-Fracture-Detection-Competition/blob/main/128b.gif]
+![Alt Text](https://github.com/maxmelichov/3DCNN-RSNA-2022-Cervical-Spine-Fracture-Detection-Competition/blob/main/128b.gif)
